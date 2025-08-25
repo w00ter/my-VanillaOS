@@ -1,4 +1,4 @@
-name: My VanillaOS # Replace this name with your image name
+name: my-vanillaos # Replace this name with your image name
 id: my-vanillaos # Replace this ID with your image ID
 stages:
 - id: build
